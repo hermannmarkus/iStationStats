@@ -1,0 +1,43 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                changeStatusBarState = id; 
+                expPlaylist = id; 
+                setInterval = id; 
+                start = id; 
+                stop = id; 
+                testURL = id; 
+            }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                aktTextField = NSTextField; 
+                getTitleProInd = NSProgressIndicator; 
+                intervalSlider = NSSlider; 
+                intervalTextField = NSTextField; 
+                listenerCountTextField = NSTextField; 
+                mainWindow = NSWindow; 
+                setContent = NSArrayController; 
+                startButton = NSButton; 
+                statusBarMenu = NSMenu; 
+                statusBarState = NSSegmentedControl; 
+                stopButton = NSButton; 
+                streamPort = NSTextField; 
+                streamURL = NSTextField; 
+                testImg = NSImageView; 
+                testURLProInd = NSProgressIndicator; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {"" = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = StatusBar; LANGUAGE = ObjC; SUPERCLASS = NSMenu; }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,12 @@
+/Users/daedalus/Projects/iStationStats/StatusBar.m: In function '-[StatusBar setItem]':
+/Users/daedalus/Projects/iStationStats/StatusBar.m:21: error: 'statusItem' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/StatusBar.m:21: error: (Each undeclared identifier is reported only once
+/Users/daedalus/Projects/iStationStats/StatusBar.m:21: error: for each function it appears in.)
+/Users/daedalus/Projects/iStationStats/StatusBar.m: In function '-[StatusBar removeItem]':
+/Users/daedalus/Projects/iStationStats/StatusBar.m:25: error: 'statusItem' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/StatusBar.m: In function '-[StatusBar changeItem:]':
+/Users/daedalus/Projects/iStationStats/StatusBar.m:29: error: 'statusItem' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/StatusBar.m: In function '-[StatusBar setMenu:]':
+/Users/daedalus/Projects/iStationStats/StatusBar.m:36: error: 'statusItem' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/StatusBar.m: In function '-[StatusBar setImage:withAltImage:]':
+/Users/daedalus/Projects/iStationStats/StatusBar.m:41: error: 'statusItem' undeclared (first use in this function)

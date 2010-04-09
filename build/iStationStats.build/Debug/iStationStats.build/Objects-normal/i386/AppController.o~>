@@ -1,0 +1,74 @@
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController init]':
+/Users/daedalus/Projects/iStationStats/AppController.m:9: error: 'titInfo' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:9: error: (Each undeclared identifier is reported only once
+/Users/daedalus/Projects/iStationStats/AppController.m:9: error: for each function it appears in.)
+/Users/daedalus/Projects/iStationStats/AppController.m:10: error: 'titleFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:11: error: 'playlistFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:12: error: 'streamURLString' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:13: error: 'streamPortNumber' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:14: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:17: error: 'timerCount' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController start:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:24: error: 'timerCount' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:26: warning: 'AppController' may not respond to '-getInfo'
+/Users/daedalus/Projects/iStationStats/AppController.m:26: warning: (Messages without a matching method signature
+/Users/daedalus/Projects/iStationStats/AppController.m:26: warning: will be assumed to return 'id' and accept
+/Users/daedalus/Projects/iStationStats/AppController.m:26: warning: '...' as arguments.)
+/Users/daedalus/Projects/iStationStats/AppController.m:27: error: 'getInfoTimer' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:27: error: 'interval' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController stop:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:36: error: 'timerCount' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:38: error: 'getInfoTimer' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController expPlaylist:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:47: warning: 'AppController' may not respond to '-exportPlaylist'
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController setInterval:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:54: error: 'interval' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController testURL:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:63: error: 'checkURL' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:64: warning: 'AppController' may not respond to '-getInfo'
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController getInfo]':
+/Users/daedalus/Projects/iStationStats/AppController.m:82: error: 'receivedData' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController exportPlaylist]':
+/Users/daedalus/Projects/iStationStats/AppController.m:93: error: 'titInfo' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:95: error: 'i' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:97: warning: 'AppController' may not respond to '-filterCheck:'
+/Users/daedalus/Projects/iStationStats/AppController.m:118: warning: 'AppController' may not respond to '-copyToPasteboard:'
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController filterCheck:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:130: error: 'playlistFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:139: error: 'titInfo' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController titleFilter:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:159: error: 'titleFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController savePreferences]':
+/Users/daedalus/Projects/iStationStats/AppController.m:207: error: 'i' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:207: error: 'playlistFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:222: error: 'titleFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:236: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController loadPreferences]':
+/Users/daedalus/Projects/iStationStats/AppController.m:248: error: 'streamURLString' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:249: error: 'streamPortNumber' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:255: error: 'interval' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:264: error: 'i' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:267: error: 'titleFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:277: error: 'playlistFilter' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:287: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController awakeFromNib]':
+/Users/daedalus/Projects/iStationStats/AppController.m:300: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:302: error: 'statBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController changeStatusBarState:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:323: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:325: error: 'statBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController setListeners:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:346: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:348: error: 'statBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController connection:didReceiveResponse:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:363: error: 'receivedData' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController connection:didReceiveData:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:368: error: 'receivedData' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController connection:didFailWithError:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:375: error: 'checkURL' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:385: error: 'showStatBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:389: error: 'statBar' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m: In function '-[AppController connectionDidFinishLoading:]':
+/Users/daedalus/Projects/iStationStats/AppController.m:405: error: 'checkURL' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:415: error: 'receivedData' undeclared (first use in this function)
+/Users/daedalus/Projects/iStationStats/AppController.m:436: error: 'titInfo' undeclared (first use in this function)
